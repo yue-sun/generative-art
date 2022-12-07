@@ -4,6 +4,12 @@
 
 (no enrollment cap)
 
+Hybrid location: Maxwell Dworkin 221 (in-person) and [via Zoom](https://harvard.zoom.us/j/98070950257?pwd=K2F0cDBUM0IxZkplbFBRWG01N1BEdz09) (virtual)
+
+Class times: 1/9-1/13/2023, 10am-12:30pm
+
+![Course Schedule](figs/logistics/schedule_2023.png)
+
 ## Work in progress
 
 Please check the [Engage page](https://engage.gsas.harvard.edu/event/8632768) for more course descriptions. Please check back later for course materials!
