@@ -1,0 +1,36 @@
+# Introduction to Generative Art and Scientific Visualization (January@GSAS 2023)
+
+## Thursday schedule
+
+|   Time (ET)   |                   Topic                  | Instructor | Notebook |
+|:-------------:|:----------------------------------------:|:----------:|:--------:|
+|  10:00-10:10  |                   Recap                  |            |          |
+|  10:10-10:40  |    Interactive coding in Processing I    |     Yue    |          |
+|  10:40-11:10  |    Interactive coding in Processing II   |     Yue    |          |
+| _11:10-11:20_ |         _Break/in-class activity_        |    _--_    |   _--_   |
+|  11:20-11:50  |  Python scripting in animation software  |     Yue    |          |
+|  11:50-12:20  | Data visualization in animation software |     Yue    |          |
+|  12:20-12:30  |                  Wrapup                  |            |          |
+
+## Day 4: Tools for visualization
+
+### Part 1: Introduction to Processing for interactive coding (Yue)
+Since its debut, Processing has become a popular programing language amongst artists to prototype ideas and generate interactive art. The simplicity of the language as well as its user interface/IDE has made it an attractive choice for creating coding, and, nowadays for scientific visualization. Given the limited time, we will only briefly introduce the language and how to start using it (though highly recommend learning via the YouTube channel). We will cover in class how to create geometric shapes, interactively move shapes based on mouse cursor location and keyboard inputs, create objects, and model a flocking simulation.
+
+### Part 2: Python scripting and 3D data visualization in animation software (Yue)
+We will introduce basic Python scripting in industry-standard animation software (Maya and/or Blender) to procedurally generate and animate objects. Time permitting, we will also briefly cover how to use built-in features to create physics-based animation. We will focus on visualizing 3D scientific data in animation software, i.e. using it as a texturing, lighting, staging and rendering tool. We will walk through how to render 3D fluid simulations with Python, from loading binary data to visualizing pathlines, assigning material textures, moving camera shots, lighting (with soft shadows), and rendering the final movie.
+
+## Recommended readings/videos:
+- More on the flocking simulation (or Boids):
+    - [Boids website](https://www.red3d.com/cwr/boids/) by Craig Reynolds
+    - [THE paper](https://dl.acm.org/doi/pdf/10.1145/37402.37406) (which introduced the three flocking rules)
+- Additional resources to learn [Processing](https://processing.org/) (or [p5.js](https://p5js.org/)):
+    - [_The Nature of Code_](https://natureofcode.com/) (book) by Dan Shiffman
+    - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (YouTube Channel)
+- More tutorials on Python scripting in animation software:
+    - [Python scripting in Maya](https://www.chadvernon.com/python-scripting-for-maya-artists/)
+    - [Python for physical simulation in Blender](https://www.youtube.com/watch?v=KI0tjZUkb5A)
+
+## Work-in-progress: animation software download instructions
+
+Check back later!
