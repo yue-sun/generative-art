@@ -21,7 +21,7 @@ Cellular automata are systems of discrete interacting cells whose state evolves 
 We will first extend cellular automata to model discrete physical systems like phase separation and spinodal decomposition. Then we will relax the constraint on discrete space and time and explore continuous physical systems. Specifically, we will implement the Kuramoto model to simulate self-synchronization patterns of phase-coupled oscillators.
 
 ### Part 3: Pattern formation with reaction–diffusion systems (Yue)
-Reaction–diffusion systems are used the mathematically describe physical phenomena like spatial–temporal evolution of substance concentrations. But their solutions also include behaviors like self-organized patterns and traveling waves, often referred to as Turing patterns. In this session, we will focus on a two-component reaction–diffusion system, also known as the [Gray–Scott model](http://mrob.com/pub/comp/xmorphia/index.html). We will examine how different activation and inhibition parameters lead to analogs of biological pattern formation, such as spots, stripes, and mazes.length but finite area.
+Reaction–diffusion systems are used to mathematically describe physical phenomena like spatial–temporal evolution of substance concentrations. But their solutions also include behaviors like self-organized patterns and traveling waves, often referred to as Turing patterns. In this session, we will focus on a two-component reaction–diffusion system, also known as the [Gray–Scott model](http://mrob.com/pub/comp/xmorphia/index.html). We will examine how different activation and inhibition parameters lead to analogs of biological pattern formation, such as spots, stripes, and mazes.
 
 ## Recommended readings/videos:
 - More on cellular automata:

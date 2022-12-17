@@ -16,7 +16,9 @@
 
 ### Part 1: 3D printing (Jiayin)
 We will make a 3D model of a lamp, which you can print out after! It is inspired by a lamp I saw at Life Alive Organic Cafe at Harvard Square:
+
 ![3D printing idea](figs/3d_printing_idea.png)
+
 Instead of a hanging lamp, we will create a standing lamp. We will create the bottom large piece, using parametric modeling with Mathematica. We will then use MeshMixer to process the bottom piece, and add a Voronoi tessellation pattern to it. We will create the smaller light cover piece with Mathematica too, where we will choose our geometry shape. We can explore the beauty of mathematical art. By exploiting the computing power of Mathematica, we can easily change the geometric parameters of the models, and everyone can design a unique lamp. We will use MeshMixer, MeshLab and NetFabb for post-processing of the model. If there is not enough time to cover the post-processing, a document will be provided for students to follow at home.
 
 ### Part 2: Generative art with neural networks (Nina and Yue)

@@ -4,7 +4,7 @@
 
 - No enrollment cap
 - Class open to the public; all are welcome to enroll!
-- Options to enroll for selected days of the mini-course
+- You can sign up for as many or as few days as you want
 - To preview some of the topics we will be covering, you can visit previous iterations of the [Generative Art Workshop](https://github.com/gvarnavi/generative-art-iap) taught during MIT IAP 2017-2022
 
 ## Schedule
@@ -29,9 +29,16 @@ Generative art encapsulates the balance between art and science. Through mathema
 
 >(This mini-course is modeled from—and the sixth iteration of—the generative art workshop, taught over MIT IAP from 2017 to 2022 by Drs. Emma Vargo, George Varnavides, Amina Matt, Jovana Andrejević and Nina Andrejević. We are grateful to all the previous MIT instructors for some original content to be used in the mini-course.)
 
-## Course objectives and instructors
+## Course instructors
+Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
+>(A short instructors bio is on the [Engage page](https://engage.gsas.harvard.edu/event/8632768).)
 
-Please check the [Engage page](https://engage.gsas.harvard.edu/event/8632768) for more course descriptions.
+## What you will gain from this mini-course?
+
+- Be familiar with examples of generative art and their mathematical/physical formulation
+- Learn to code functions and recursive algorithms to procedurally generate/animate art
+- Use Python libraries and animation/modeling software to visualize 2D/3D scientific data
+- **Have fun generating art!**
 
 ## Programming language
 
