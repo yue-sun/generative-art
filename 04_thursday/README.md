@@ -2,11 +2,11 @@
 
 ## Thursday schedule
 
-|   Time (ET)   |                   Topic                  | Instructor | Example code | Software|
+|   Time (ET)   |                   Topic                  | Instructor | Code/Slides | Software|
 |:-------------:|:----------------------------------------:|:----------:|:--------:|:--------:|
 |  10:00-10:10  |                   Recap                  |            |          |          |
-|  10:10-10:40  |    Interactive coding in Processing I    |     Yue    |          |[Install Processing](#processing-installation-instructions)|
-|  10:40-11:10  |    Interactive coding in Processing II   |     Yue    |          |          |
+|  10:10-10:40  |    Interactive coding in Processing I    |     Yue    | [00_processing_flocking.pdf](https://github.com/yue-sun/generative-art/blob/main/04_thursday/00_processing_flocking.pdf) |[Install Processing](#processing-installation-instructions)|
+|  10:40-11:10  |    Interactive coding in Processing II   |     Yue    | [02_flocking_exercise](https://github.com/yue-sun/generative-art/blob/main/04_thursday/02_flocking_exercise) |          |
 | _11:10-11:20_ |         _Break/in-class activity_        |    _--_    |   _--_   |   _--_   |
 |  11:20-11:50  |  Python scripting in animation software  |     Yue    |          |[Install Maya/Blender](#animation-software-installation-instructions)|
 |  11:50-12:20  | Data visualization in animation software |     Yue    |          |          |
