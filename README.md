@@ -17,7 +17,7 @@ Class times: 1/9-1/13/2023, 10am-12:30pm
 
 ## Syllabus and code examples
 
-- **[Courese introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)**
+- **[Course introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)**
 - [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
 - [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
 - [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems
@@ -85,6 +85,8 @@ We store all code examples on GitHub, which allows us to version control the cod
     ```
 You can also use the GitHub Desktop app to keep a local copy of the repo. If you use VS Code, its source control should automatically have the options to pull the changes.
 
-## **WORK-IN-PROGRESS: Software download instructions**
+## Software installation instructions
 
-Please check back later for our recommended software to install for 3D printing and animation.
+- [Processing installation instructions](https://github.com/yue-sun/generative-art/blob/main/04_thursday#processing-installation-instructions)
+- [Animation software installation instructions](https://github.com/yue-sun/generative-art/blob/main/04_thursday#animation-software-installation-instructions)
+- Please check back later for our recommended software to install for 3D printing
