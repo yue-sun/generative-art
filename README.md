@@ -17,6 +17,7 @@ Class times: 1/9-1/13/2023, 10am-12:30pm
 
 ## Syllabus and code examples
 
+- **[Courese introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)**
 - [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
 - [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
 - [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems

@@ -2,9 +2,9 @@
 
 ## Monday schedule
 
-|   Time (ET)   |           Topic           | Instructor | Notebook |
+|   Time (ET)   |           Topic           | Instructor | Notebook/Slides | 
 |:-------------:|:-------------------------:|:----------:|:--------:|
-|  10:00-10:10  |   Workshop introduction   |     Yue    |          |
+|  10:00-10:10  |   Workshop introduction   |     Yue    | [00_intro_logistics.pdf](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf) |
 |  10:10-10:40  |    Geometric fractals I   |   Jovana   |          |
 |  10:40-11:10  |   Geometric fractals II   |   Jovana   |          |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |
