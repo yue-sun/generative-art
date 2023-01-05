@@ -18,10 +18,11 @@ Class times: 1/9-1/13/2023, 10am-12:30pm
 ## Syllabus and code examples
 
 - **[Course introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)**
+- **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
 - [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
 - [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
 - [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems
-- [Thursday (1/12)](https://github.com/yue-sun/generative-art/tree/main/04_thursday/README.md): Interactive coding with Processing, Python scripting in animation software
+- [Thursday (1/12)](https://github.com/yue-sun/generative-art/tree/main/04_thursday/README.md): Interactive flocking simulation, Python scripting in animation software
 - [Friday (1/13)](https://github.com/yue-sun/generative-art/tree/main/05_friday/README.md): 3D printing, generative art with neural networks
 
 ## Course description
@@ -39,7 +40,7 @@ Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
 - Be familiar with examples of generative art and their mathematical/physical formulation
 - Learn to code functions and recursive algorithms to procedurally generate/animate art
 - Use Python libraries and animation/modeling software to visualize 2D/3D scientific data
-- **Have fun generating art!**
+- :sparkles::sparkles:**Have fun generating art!**:computer::art:
 
 ## Programming language
 
@@ -48,42 +49,26 @@ While there are many great programming and scripting languages to do generative 
 2. Built-in (high-level) visualization functions
 3. The interactive Notebook format compliments the way we prototype and think of generative art
 
-### Python installation instructions
+### TL;DR: No need to install Python
 
-We'll be using [Google's Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) to run Jupyter notebooks in Python. Google Colab is a cloud-based, free Jupyter notebook environment, and the notebooks can be downloaded if you prefer to run with a local Jupyter installation. All you need to use Google Colab is a Google account.
+We will be using [Google's Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) to run Jupyter notebooks in Python. Google Colab is a cloud-based, free Jupyter notebook environment, and the notebooks can be downloaded if you prefer to run with a local Jupyter installation. All you need to use Google Colab is a Google account.
 
->If you want to run the code examples locally, you need to install Python and Jupyter notebook environment locally. See [this installation instruction](https://github.com/sarah1123/SciComp-F22-AM111/tree/main/00_python_tutorial#python-installation) for more details. [Visual Studio Code](https://code.visualstudio.com/) is a popular choice to edit Jupyter notebooks locally. See [this page](https://github.com/sarah1123/SciComp-F22-AM111/tree/main/00_python_tutorial#recommended-python-editor) for more installation details.
-
-### Run code (directly online)
-
-Click "Open in Colab" badge on the top of each `.ipynb` notebook to run (no need to install anything for Python to run).
+Click "Open in Colab" badge on the top of each `.ipynb` notebook (no need to install anything for Python).
 
 > If you are running the notebook on Google Colab, please make a copy of the notebook to your drive:
 >
 > - Click "Copy to Drive"
 > - Or navigate to "File -> Save a copy in Drive"
 > - Or navigate to "File -> Download" and save a local copy
+>
+> Or else your changes in the playground mode will get lost after you close the page.
 
-Or else your changes in the playground mode will get lost after you close the page.
+### Python installation instructions
 
-### Run code (locally)
-
-We store all code examples on GitHub, which allows us to version control the code. To have your own local updated copy of the course git repo:
-1. Open your terminal and navigate to target directory
-    ```
-    cd your_target_directory_generative_art
-    ```
-
-2. Clone the Git repo
-    ```
-    git clone https://github.com/yue-sun/generative-art.git
-    ```
-
-3. To access updates to the code examples use
-    ```
-    git pull
-    ```
-You can also use the GitHub Desktop app to keep a local copy of the repo. If you use VS Code, its source control should automatically have the options to pull the changes.
+If you want to run the code examples locally, you need to install Python and Jupyter notebook environment locally. See [README.md](https://github.com/yue-sun/generative-art/tree/main/tutorials) in the `tutorials` folder for more details:
+- [Run code (locally) with `git pull`](https://github.com/yue-sun/generative-art/tree/main/tutorials#run-code-locally)
+- [Python installation](https://github.com/yue-sun/generative-art/tree/main/tutorials#python-installation)
+- [Recommended Python editor](https://github.com/yue-sun/generative-art/tree/main/tutorials#recommended-python-editor)
 
 ## Software installation instructions
 
