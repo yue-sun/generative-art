@@ -2,15 +2,15 @@
 
 ## Friday schedule
 
-|   Time (ET)   |           Topic           | Instructor | Notebook | Software|
-|:-------------:|:-------------------------:|:----------:|:--------:|:--------:|
-|  10:00-10:10  |           Recap           |            |          |         |
-|  10:10-10:40  |       3D printing I       |   Jiayin   | [01_3d_printing.ipynb](https://github.com/yue-sun/generative-art/blob/main/05_friday/01_3d_printing.ipynb) | [Install 3D printing software](https://github.com/yue-sun/generative-art/tree/main/05_friday#3d-printing-software-download-and-preperation-instructions) |
-|  10:40-11:10  |       3D printing II      |   Jiayin   |          |         |
-| _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |  _--_   |
-|  11:20-11:50  |      3D printing III      |   Jiayin   |          |         |
-|  11:50-12:20  |    GAN art and DALL·E 2   |  Nina, Yue |          |         |
-|  12:20-12:30  |         Conclusion        |   Jovana   |          |         |
+|   Time (ET)   |           Topic           | Instructor | Notebook | Software| Asset |
+|:-------------:|:-------------------------:|:----------:|:--------:|:-------:|:-----:|
+|  10:00-10:10  |           Recap           |            |          |         |       |
+|  10:10-10:40  |       3D printing I       |   Jiayin   | [01_3d_printing.ipynb](https://github.com/yue-sun/generative-art/blob/main/05_friday/01_3d_printing.ipynb) | [Install 3D printing software](https://github.com/yue-sun/generative-art/tree/main/05_friday#3d-printing-software-download-and-preparation-instructions) | [lamp_pieces_model.nb](https://github.com/yue-sun/generative-art/blob/main/05_friday/lamp_pieces_model.nb)<br>[rabbit_image.jpg](https://github.com/yue-sun/generative-art/blob/main/05_friday/rabbit_image.jpg)
+|  10:40-11:10  |       3D printing II      |   Jiayin   |          |         |       |
+| _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |  _--_   |       |
+|  11:20-11:50  |      3D printing III      |   Jiayin   |          |         |       |
+|  11:50-12:20  |    GAN art and DALL·E 2   |  Nina, Yue |          |         |       |
+|  12:20-12:30  |         Conclusion        |   Jovana   |          |         |       |
 
 ## Day 5: More tools and neural networks
 
