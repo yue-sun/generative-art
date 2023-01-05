@@ -9,7 +9,7 @@
 |  10:40-11:10  |   Discrete physical systems  |     Yue    |          |
 | _11:10-11:20_ |   _Break/in-class activity_  |    _--_    |   _--_   |
 |  11:20-11:50  |  Continuous physical systems |     Yue    |          |
-|  11:50-12:20  |  Reaction–diffusion systems  |     Yue    |          |
+|  11:50-12:20  |  Reaction–diffusion systems  |     Yue    | [04_reaction_diffusion_systems.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/04_reaction_diffusion_systems.ipynb) |
 |  12:20-12:30  |            Wrapup            |            |          |
 
 ## Day 3: Physical systems
@@ -33,3 +33,6 @@ Reaction–diffusion systems are used to mathematically describe physical phenom
     - Phillip Compeau’s [website](https://biologicalmodeling.org/prologue/) on the Turing model and reaction–diffusion
     - YouTube video: lecture on [modelling pattern formation in developmental biology](https://www.youtube.com/watch?v=Rv9NKugal3g)
     - Adobe [stock photos](https://stock.adobe.com/search?k=reaction%20diffusion) of reaction–diffusion art
+- More on reaction–diffusion systems:
+    - [Interactive RD visualization tool](https://www.karlsims.com/rdtool.html) by Karl Sims
+    - [Reaction-Diffusion by the Gray-Scott Model: Pearson's Parametrization](http://mrob.com/pub/comp/xmorphia/index.html)
