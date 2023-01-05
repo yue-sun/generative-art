@@ -5,11 +5,11 @@
 |   Time (ET)   |           Topic           | Instructor | Notebook | Software|
 |:-------------:|:-------------------------:|:----------:|:--------:|:--------:|
 |  10:00-10:10  |           Recap           |            |          |         |
-|  10:10-10:40  |       3D printing I       |   Jiayin   | [01_3d_printing.ipynb](https://github.com/yue-sun/generative-art/blob/main/05_friday/01_3d_printing.ipynb) | [Install 3D printing software](https://github.com/yue-sun/generative-art/tree/main/05_friday#3d-printing-software-download--preperation-instructions) |
+|  10:10-10:40  |       3D printing I       |   Jiayin   | [01_3d_printing.ipynb](https://github.com/yue-sun/generative-art/blob/main/05_friday/01_3d_printing.ipynb) | [Install 3D printing software](https://github.com/yue-sun/generative-art/tree/main/05_friday#3d-printing-software-download-and-preperation-instructions) |
 |  10:40-11:10  |       3D printing II      |   Jiayin   |          |         |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |  _--_   |
 |  11:20-11:50  |      3D printing III      |   Jiayin   |          |         |
-|  11:50-12:20  |    GAN art and DALL-E 2   |  Nina, Yue |          |         |
+|  11:50-12:20  |    GAN art and DALL·E 2   |  Nina, Yue |          |         |
 |  12:20-12:30  |         Conclusion        |   Jovana   |          |         |
 
 ## Day 5: More tools and neural networks
@@ -40,9 +40,9 @@ While traditional generative algorithms use predefined rules to create patterns 
     - Official [website](https://openai.com/dall-e-2/) and [THE paper](https://arxiv.org/pdf/2204.06125.pdf)
     - Discussions on copyright issues ([1](https://www.technollama.co.uk/dall%C2%B7e-goes-commercial-but-what-about-copyright), [2](https://www.wired.com/story/openai-dalle-copyright-intellectual-property-art/), [3](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060))
 
-## 3D printing software download & preparation instructions
+## 3D printing software download and preparation instructions
 
->***:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:Please make sure to complete the following before class, as the downloads take a long time. So we can save time in class to make models :)***
+### ***:heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:Please make sure to complete the following before class, as the downloads take a long time. So we can save time in class to make models :):heavy_exclamation_mark::heavy_exclamation_mark::heavy_exclamation_mark:***
 
 - Mathematica (Free for Harvard affiliates): For Harvard affiliates, please download and create your Mathematica account for free using your Harvard email: https://downloads.fas.harvard.edu/download (Scroll down to "Mathematica and Wolfram|Alpha Pro"; Input your Harvard email; Then select "Wolfram Mathematica" Download to your lap top locally; afterwards, please make sure it works as expected, i.e. you are able to create a notebook and use it.)
 
