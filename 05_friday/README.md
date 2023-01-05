@@ -42,8 +42,12 @@ While traditional generative algorithms use predefined rules to create patterns 
 
 ## 3D printing software download & preperation instructions
 ## Please make sure to complete the following before class, as the downloads take a long time. So we can save time in class to make models :) 
-Mathematica: For Harvard affiliates, please download and create your Mathematica account for free using your Harvard email: https://downloads.fas.harvard.edu/download (Scroll down to "Mathematica and Wolfram|Alpha Pro"; Input your Harvard email; Then select "Wolfram Mathematica" Download to your lap top locally; Afterwards, please make sure it works as expected, i.e. you are able to create a notebook and use it.)
+Mathematica (Free for Harvard affiliates): For Harvard affiliates, please download and create your Mathematica account for free using your Harvard email: https://downloads.fas.harvard.edu/download (Scroll down to "Mathematica and Wolfram|Alpha Pro"; Input your Harvard email; Then select "Wolfram Mathematica" Download to your lap top locally; Afterwards, please make sure it works as expected, i.e. you are able to create a notebook and use it.)
 
-Blender: Please download the latest version of Blender here: https://www.blender.org/download/
+Inkscape (Free): Please download the latest version of Inkscape here: https://inkscape.org/release/inkscape-1.2.2/
+
+Blender (Free): Please download the latest version of Blender here: https://www.blender.org/download/
+
+MeshLab (Free): Please download the latest version of MeshLab here: https://www.meshlab.net/#download
 
 tinkercad.com: Please create a free personal account on https://www.tinkercad.com/
