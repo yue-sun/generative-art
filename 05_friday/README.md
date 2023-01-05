@@ -49,5 +49,3 @@ Inkscape (Free): Please download the latest version of Inkscape here: https://in
 Blender (Free): Please download the latest version of Blender here: https://www.blender.org/download/
 
 MeshLab (Free): Please download the latest version of MeshLab here: https://www.meshlab.net/#download
-
-tinkercad.com: Please create a free personal account on https://www.tinkercad.com/
