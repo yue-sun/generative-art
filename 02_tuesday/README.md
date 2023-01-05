@@ -5,7 +5,7 @@
 |   Time (ET)   |           Topic           | Instructor | Notebook |
 |:-------------:|:-------------------------:|:----------:|:--------:|
 |  10:00-10:10  |           Recap           |            |          |
-|  10:10-10:40  |       Voronoi art I       |   Jiayin   |          |
+|  10:10-10:40  |       Voronoi art I       |   Jiayin   | [01_voronoi_delaunay_art.ipynb](https://github.com/yue-sun/generative-art/blob/main/02_tuesday/01_voronoi_delaunay_art_.ipynb) |
 |  10:40-11:10  |       Voronoi art II      |   Jiayin   |          |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |
 |  11:20-11:50  |      Voronoi art III      |   Jiayin   |          |
