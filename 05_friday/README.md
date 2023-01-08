@@ -9,7 +9,7 @@
 |  10:40-11:10  |       3D printing II      |   Jiayin   |          |         |       |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |  _--_   |       |
 |  11:20-11:50  |      3D printing III      |   Jiayin   |          |         |       |
-|  11:50-12:20  |    GAN art and DALL·E 2   |  Nina, Yue |          |         |       |
+|  11:50-12:20  |    GAN art and DALL·E 2   |  Nina, Yue | [02_gan_art.ipynb](https://github.com/yue-sun/generative-art/blob/main/05_friday/02_gan_art.ipynb) |         |       |
 |  12:20-12:30  |         Conclusion        |   Jovana   |          |         |       |
 
 ## Day 5: More tools and neural networks
@@ -32,6 +32,7 @@ While traditional generative algorithms use predefined rules to create patterns 
 - More on GANs and Pokémon:
     - [Generating art using GANs](https://blog.jovian.ai/generating-art-with-gans-352ceef3d51f)
     - [Monster GANs](https://medium.com/@yvanscher/using-gans-to-create-monsters-for-your-game-c1a3ece2f0a0)
+    - [PokeGAN](https://towardsdatascience.com/i-generated-thousands-of-new-pokemon-using-ai-f8f09dc6477e)
 - “Must-read” on neural style transfer:
     - The seminal paper ([Gatys et al. 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html))
     - Interesting applications in fluid animation ([1](https://dl.acm.org/doi/10.1145/3355089.3356560), [2](https://www.youtube.com/watch?v=TyNlaBoP6oI), [3](https://cgl.ethz.ch/publications/papers/paperKim20a.php))
