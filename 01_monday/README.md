@@ -5,8 +5,8 @@
 |   Time (ET)   |           Topic           | Instructor | Notebook/Slides | 
 |:-------------:|:-------------------------:|:----------:|:--------:|
 |  10:00-10:10  |   Workshop introduction   |     Yue    | [00_intro_logistics.pdf](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf) |
-|  10:10-10:40  |    Geometric fractals I   |   Jovana   |          |
-|  10:40-11:10  |   Geometric fractals II   |   Jovana   |          |
+|  10:10-10:40  |    Geometric fractals I   |   Jovana   | [01_geometric_fractals.ipynb](https://github.com/yue-sun/generative-art/blob/main/01_monday/01_geometric_fractals.ipynb) |
+|  10:40-11:10  |   Geometric fractals II   |   Jovana   | [01_geometric_fractals.ipynb](https://github.com/yue-sun/generative-art/blob/main/01_monday/01_geometric_fractals.ipynb) |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |
 |  11:20-11:50  |   Mathematical fractals   |    Nina    | [02_mathematical_fractals.ipynb](https://github.com/yue-sun/generative-art/blob/main/01_monday/02_mathematical_fractals.ipynb) |
 |  11:50-12:20  |     Strange attractors    |    Nina    | [03_strange_attractors.ipynb](https://github.com/yue-sun/generative-art/blob/main/01_monday/03_strange_attractors.ipynb) |
