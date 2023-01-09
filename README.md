@@ -1,12 +1,5 @@
 # Introduction to Generative Art and Scientific Visualization (January@GSAS 2023)
 
-## **To enroll: Please fill out [the Google Form](https://docs.google.com/forms/d/e/1FAIpQLScz5_jmoouKRGaHxp-3YwT_7SfrEJYPgFAIoVfT7sPREAXWTQ/viewform) by January 8, 2023**
-
-- No enrollment cap
-- Class open to the public; all are welcome to enroll!
-- You can sign up for as many or as few days as you want
-- To preview some of the topics we will be covering, you can visit previous iterations of the [Generative Art Workshop](https://github.com/gvarnavi/generative-art-iap) taught during MIT IAP 2017-2022
-
 ## Schedule
 
 Hybrid location: Maxwell Dworkin 221 (in-person) and [via Zoom](https://harvard.zoom.us/j/98070950257?pwd=K2F0cDBUM0IxZkplbFBRWG01N1BEdz09) (virtual)
@@ -17,13 +10,17 @@ Class times: 1/9-1/13/2023, 10am-12:30pm
 
 ## Syllabus and code examples
 
-- **[Course introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)**
 - **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
+- [Introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)
 - [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
 - [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
 - [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems
 - [Thursday (1/12)](https://github.com/yue-sun/generative-art/tree/main/04_thursday/README.md): Interactive flocking simulation, Python scripting in animation software
 - [Friday (1/13)](https://github.com/yue-sun/generative-art/tree/main/05_friday/README.md): 3D printing, generative art with neural networks
+
+## Course gallery
+
+We encourage you to share with the class your generative art work! You could upload your file to this [shared Google Photo Album](https://photos.app.goo.gl/RxjNkAPqLugHKFzTA). Please tag your work with the corresponding class day, and add a short description to share with the class how you have created your work. You can also like other works in the gallery. Looking forward to your contribution!
 
 ## Course description
 
@@ -74,4 +71,11 @@ If you want to run the code examples locally, you need to install Python and Jup
 
 - [Processing installation instructions](https://github.com/yue-sun/generative-art/blob/main/04_thursday#processing-installation-instructions)
 - [Animation software installation instructions](https://github.com/yue-sun/generative-art/blob/main/04_thursday#animation-software-installation-instructions)
-- Please check back later for our recommended software to install for 3D printing
+- [3D printing software installation instructions](https://github.com/yue-sun/generative-art/tree/main/05_friday#3d-printing-software-download-and-preparation-instructions)
+
+## ~~**To enroll: Please fill out [the Google Form](https://docs.google.com/forms/d/e/1FAIpQLScz5_jmoouKRGaHxp-3YwT_7SfrEJYPgFAIoVfT7sPREAXWTQ/viewform) by January 8, 2023**~~
+
+- ~~No enrollment cap~~
+- ~~Class open to the public; all are welcome to enroll!~~
+- ~~You can sign up for as many or as few days as you want~~
+- ~~To preview some of the topics we will be covering, you can visit previous iterations of the [Generative Art Workshop](https://github.com/gvarnavi/generative-art-iap) taught during MIT IAP 2017-2022~~
