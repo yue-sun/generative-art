@@ -13,7 +13,7 @@ class Boid(object):
         self.max_speed = 2    # maximum speed (default speed)
         self.max_force = 0.03 # maximum force magnitude
        
-   # Main update function to step forward in one timestep
+    # Main update function to step forward in one timestep
     def run(self, boids):
         self.compute_force(boids)
         self.update_position()
@@ -22,36 +22,33 @@ class Boid(object):
         
     # Accumulate steering forces based on three rules
     def compute_force(self, boids):
-        pass
-        ########################################################
-        #################### YOUR CODE HERE ####################
-        ########################################################
-        # 1. Compute steering forces based on 3 flocking rules
-        # 2. Assign (arbitrary) weighting among the forces
-        # 3. Add net force to acceleration
-        ########################################################
+        fs = self.separation(boids) # separation
+        fa = self.alignment(boids)  # alignment
+        fc = self.coherence(boids)  # cohesion
+        # Assign (arbitrary) weighting among the forces
+        fs.mult(1.5)
+        fa.mult(1.0)
+        fc.mult(1.0)
+        # Add the net force to acceleration
+        self.apply_force(fs)
+        self.apply_force(fa)
+        self.apply_force(fc)
         
     # Helper function to apply force to update acceleration
     def apply_force(self, force):
         # Assume mass = 1 in accel = force / mass
-        pass
-        ########################################################
-        #################### YOUR CODE HERE ####################
-        ########################################################
-        # 1. Add force to acceleration
-        ########################################################
+        self.accel.add(force)
     
     # Update boid position
     def update_position(self):
-        pass        
-        ########################################################
-        #################### YOUR CODE HERE ####################
-        ########################################################
-        # 1. Update velocity
-        # 2. Limit maximum speed
-        # 3. Update position
-        # 4. Reset acceleration to 0
-        ########################################################
+        # Update velocity
+        self.vel.add(self.accel)
+        # Limit speed
+        self.vel.limit(self.max_speed)
+        # Update position
+        self.pos.add(self.vel)
+        # Reset acceleration to 0
+        self.accel.mult(0)
         
     # Periodic boundary conditions
     def boundary_conditions(self):
