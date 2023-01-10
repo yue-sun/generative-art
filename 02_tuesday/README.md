@@ -9,7 +9,7 @@
 |  10:40-11:10  |       Voronoi art II      |   Jiayin   |          |
 | _11:10-11:20_ | _Break/in-class activity_ |    _--_    |   _--_   |
 |  11:20-11:50  |      Voronoi art III      |   Jiayin   |          |
-|  11:50-12:20  |    Space-filling curves   |   Jovana   |          |
+|  11:50-12:20  |    Space-filling curves   |   Jovana   | [02_space_filling_curves.ipynb](https://github.com/yue-sun/generative-art/blob/main/02_tuesday/02_space_filling_curves.ipynb) |
 |  12:20-12:30  |           Wrapup          |            |          |
 
 ## Day 2: Voronoi diagram and its application, and more
