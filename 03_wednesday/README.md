@@ -5,23 +5,23 @@
 |   Time (ET)   |             Topic            | Instructor | Notebook |
 |:-------------:|:----------------------------:|:----------:|:--------:|
 |  10:00-10:10  |             Recap            |            |          |
-|  10:10-10:40  | Elementary cellular automata |   Jovana   |          |
-|  10:40-11:10  |   Discrete physical systems  |     Yue    |          |
-| _11:10-11:20_ |   _Break/in-class activity_  |    _--_    |   _--_   |
-|  11:20-11:50  |  Continuous physical systems |     Yue    |          |
-|  11:50-12:20  |  Reaction–diffusion systems  |     Yue    | [04_reaction_diffusion_systems.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/04_reaction_diffusion_systems.ipynb) |
+|  10:10-10:55  | Elementary cellular automata |   Jovana   |          |
+| _10:55-11:00_ |   _Break/in-class activity_  |    _--_    |   _--_   |
+|  11:00-11:45  |   Physical systems I: oscillators  |     Yue    | [02_physical_oscillators.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/02_physical_oscillators.ipynb) |
+| _11:45-11:50_ |   _Break/in-class activity_  |    _--_    |   _--_   |
+|  11:50-12:20  |  Physical systems II: reaction–diffusion  |     Nina    | [03_physical_reaction_diffusion.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/03_physical_reaction_diffusion.ipynb) |
 |  12:20-12:30  |            Wrapup            |            |          |
 
 ## Day 3: Physical systems
 
 ### Part 1: Elementary cellular automata (Jovana)
-Cellular automata are systems of discrete interacting cells whose state evolves according to a set of rules defined locally on a neighborhood. In this session, we observe how these simple systems can produce a remarkable array of patterns resembling biological and chemical phenomena. Cellular automata are a precursor to our later exploration of more complex pattern formation.
+Cellular automata are systems of discrete interacting cells whose state evolves according to a set of rules defined locally on a neighborhood. In this session, we observe how these simple systems can produce a remarkable array of patterns resembling biological and chemical phenomena. Cellular automata are a precursor to our later exploration of more complex pattern formation. We will also extend cellular automata to model discrete physical systems like phase separation.
 
-### Part 2: Discrete and continuous physical systems (Yue)
-We will first extend cellular automata to model discrete physical systems like phase separation and spinodal decomposition. Then we will relax the constraint on discrete space and time and explore continuous physical systems. Specifically, we will implement the Kuramoto model to simulate self-synchronization patterns of phase-coupled oscillators.
+### Part 2: Physical systems I: Swarming and synchronization with oscillators (Yue)
+In the first half of the physical systems, we will relax the constraint on discrete space and time and explore continuous physical systems. Specifically, we will implement the [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) to simulate self-synchronization patterns of phase-coupled oscillators. Then we will extend the position constraint in the Kuramoto model to allow oscillators move freely in space, and simulate the [Swarmalator model](https://www.nature.com/articles/s41467-017-01190-3) to observe swarming and synchronization of oscillators. We will also animate the trail of oscillators to create some color-mixing patterns.
 
-### Part 3: Pattern formation with reaction–diffusion systems (Yue)
-Reaction–diffusion systems are used to mathematically describe physical phenomena like spatial–temporal evolution of substance concentrations. But their solutions also include behaviors like self-organized patterns and traveling waves, often referred to as Turing patterns. In this session, we will focus on a two-component reaction–diffusion system, also known as the [Gray–Scott model](http://mrob.com/pub/comp/xmorphia/index.html). We will examine how different activation and inhibition parameters lead to analogs of biological pattern formation, such as spots, stripes, and mazes.
+### Part 3: Physical systems II: Pattern formation with reaction–diffusion systems (Nina)
+Reaction–diffusion systems are used to mathematically describe physical phenomena like spatial–temporal evolution of substance concentrations. But their solutions also include behaviors like self-organized patterns and traveling waves, often referred to as Turing patterns. In the second half of physical systems, we will focus on a two-component reaction–diffusion system, also known as the [Gray–Scott model](http://mrob.com/pub/comp/xmorphia/index.html). We will examine how different replenishment and depletion parameters lead to analogs of biological pattern formation, such as spots, stripes, and mazes.
 
 ## Recommended readings/videos:
 - More on cellular automata:
