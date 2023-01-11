@@ -2,10 +2,10 @@
 
 ## Thursday schedule
 
-|   Time (ET)   |                   Topic                  | Instructor | Code/Slides | Software|
-|:-------------:|:----------------------------------------:|:----------:|:--------:|:--------:|
+|   Time (ET)   |                   Topic                  | Instructor | Code/Slides | Software| Supplement |
+|:-------------:|:----------------------------------------:|:----------:|:--------:|:--------:|:--------:|
 |  10:00-10:10  |                   Recap                  |            |          |          |
-|  10:10-10:40  |    Interactive coding in Processing I    |     Yue    | [00_processing_flocking.pdf](https://github.com/yue-sun/generative-art/blob/main/04_thursday/00_processing_flocking.pdf)<br>[01_hello_ellipse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse)<br>[01_hello_ellipse_mouse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_mouse)<br>[01_hello_ellipse_trail](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_trail) |[Install Processing](#processing-installation-instructions)|
+|  10:10-10:40  |    Interactive coding in Processing I    |     Yue    | [00_processing_flocking.pdf](https://github.com/yue-sun/generative-art/blob/main/04_thursday/00_processing_flocking.pdf)<br>[01_hello_ellipse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse)<br>[01_hello_ellipse_mouse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_mouse)<br>[01_hello_ellipse_trail](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_trail) |[Install Processing](#processing-installation-instructions)| [Additional examples](https://github.com/yue-sun/generative-art/blob/main/04_thursday/additional_examples)
 |  10:40-11:10  |    Interactive coding in Processing II   |     Yue    | [02_flocking_exercise](https://github.com/yue-sun/generative-art/blob/main/04_thursday/02_flocking_exercise)<br>[02_flocking_solution](https://github.com/yue-sun/generative-art/blob/main/04_thursday/02_flocking_solution) |          |
 | _11:10-11:20_ |         _Break/in-class activity_        |    _--_    |   _--_   |   _--_   |
 |  11:20-11:50  |  Python scripting in animation software  |     Yue    |          |[Install Maya/Blender](#animation-software-installation-instructions)|
