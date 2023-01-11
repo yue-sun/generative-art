@@ -5,7 +5,7 @@
 |   Time (ET)   |             Topic            | Instructor | Notebook |
 |:-------------:|:----------------------------:|:----------:|:--------:|
 |  10:00-10:10  |             Recap            |            |          |
-|  10:10-10:55  | Elementary cellular automata |   Jovana   |          |
+|  10:10-10:55  | Elementary cellular automata |   Jovana   |  [01_cellular_automata.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/01_cellular_automata.ipynb)   |
 | _10:55-11:00_ |   _Break/in-class activity_  |    _--_    |   _--_   |
 |  11:00-11:45  |   Physical systems I: oscillators  |     Yue    | [02_physical_oscillators.ipynb](https://github.com/yue-sun/generative-art/blob/main/03_wednesday/02_physical_oscillators.ipynb) |
 | _11:45-11:50_ |   _Break/in-class activity_  |    _--_    |   _--_   |
@@ -15,7 +15,7 @@
 ## Day 3: Physical systems
 
 ### Part 1: Elementary cellular automata (Jovana)
-Cellular automata are systems of discrete interacting cells whose state evolves according to a set of rules defined locally on a neighborhood. In this session, we observe how these simple systems can produce a remarkable array of patterns resembling biological and chemical phenomena. Cellular automata are a precursor to our later exploration of more complex pattern formation. We will also extend cellular automata to model discrete physical systems like phase separation.
+Cellular automata are systems of discrete interacting cells whose state evolves according to a set of rules defined locally on a neighborhood. In this session, we observe how these simple systems can produce a remarkable array of patterns resembling biological and chemical phenomena. Cellular automata are a precursor to our later exploration of more complex pattern formation. We will also extend cellular automata to model discrete physical phenomena like diffusion-limited aggregation.
 
 ### Part 2: Physical systems I: Swarming and synchronization with oscillators (Yue)
 In the first half of the physical systems, we will relax the constraint on discrete space and time and explore continuous physical systems. Specifically, we will implement the [Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model) to simulate self-synchronization patterns of phase-coupled oscillators. Then we will extend the position constraint in the Kuramoto model to allow oscillators move freely in space, and simulate the [Swarmalator model](https://www.nature.com/articles/s41467-017-01190-3) to observe swarming and synchronization of oscillators. We will also animate the trail of oscillators to create some color-mixing patterns.
