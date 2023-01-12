@@ -9,6 +9,7 @@ Class times: 1/9-1/13/2023, 10am-12:30pm
 ![Course Schedule](figs/schedule_2023.png)
 
 ## Syllabus and code examples
+Contact the course staff at yuesun@g.harvard.edu if you want to watch the Zoom recordings.
 
 - **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
 - [Introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)
@@ -26,7 +27,7 @@ We encourage you to share with the class your generative art work! You could upl
 
 Generative art encapsulates the balance between art and science. Through mathematical equations and physical systems, we can algorithmically generate mesmerizing visual patterns for pure aesthetics or scientific visualization. This five-day mini-course explores representative aspects of generative art and data visualization through in-class code examples. We will begin with traditional generative methods like fractals and chaotic attractors, then focus on pattern formation with the Voronoi diagram and physical systems, and finally survey some modern neural-network-inspired approaches. In addition, we will briefly introduce tools for rendering 3D scientific data in animation software, interactive coding, and 3D printing of your generated art.
 
->(This mini-course is modeled from—and the sixth iteration of—the generative art workshop, taught over MIT IAP from 2017 to 2022 by Drs. Emma Vargo, George Varnavides, Amina Matt, Jovana Andrejević and Nina Andrejević. We are grateful to all the previous MIT instructors for some original content to be used in the mini-course.)
+>(This mini-course is modeled from—and the sixth iteration of—the [Generative Art Workshop](https://github.com/gvarnavi/generative-art-iap), taught over MIT IAP from 2017 to 2022 by Drs. Emma Vargo, George Varnavides, Amina Matt, Jovana Andrejević and Nina Andrejević. We are grateful to all the previous MIT instructors for some original content to be used in the mini-course.)
 
 ## Course instructors
 Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
