@@ -52,3 +52,5 @@ While traditional generative algorithms use predefined rules to create patterns 
 - Blender (Free): Please download the latest version of Blender here: https://www.blender.org/download/
 
 - MeshLab (Free): Please download the latest version of MeshLab here: https://www.meshlab.net/#download
+
+- Repetier-Host (Free): Please download here: https://www.repetier.com
