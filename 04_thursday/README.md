@@ -8,8 +8,8 @@
 |  10:10-10:40  |    Interactive coding in Processing I    |     Yue    | [00_processing_flocking.pdf](https://github.com/yue-sun/generative-art/blob/main/04_thursday/00_processing_flocking.pdf)<br>[01_hello_ellipse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse)<br>[01_hello_ellipse_mouse](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_mouse)<br>[01_hello_ellipse_trail](https://github.com/yue-sun/generative-art/blob/main/04_thursday/01_hello_ellipse_trail) |[Install Processing](#processing-installation-instructions)| [Additional examples](https://github.com/yue-sun/generative-art/blob/main/04_thursday/additional_examples)
 |  10:40-11:10  |    Interactive coding in Processing II   |     Yue    | [02_flocking_exercise](https://github.com/yue-sun/generative-art/blob/main/04_thursday/02_flocking_exercise)<br>[02_flocking_solution](https://github.com/yue-sun/generative-art/blob/main/04_thursday/02_flocking_solution) |          |
 | _11:10-11:20_ |         _Break/in-class activity_        |    _--_    |   _--_   |   _--_   |
-|  11:20-11:50  |  Python scripting in animation software  |     Yue    |          |[Install Maya/Blender](#animation-software-installation-instructions)|
-|  11:50-12:20  | Data visualization in animation software |     Yue    |          |          |
+|  11:20-11:50  |  Python scripting in animation software  |     Yue    | [03_hello_sphere.py](https://github.com/yue-sun/generative-art/blob/main/04_thursday/03_hello_sphere.py) |[Install Maya/Blender](#animation-software-installation-instructions)|
+|  11:50-12:20  | Data visualization in animation software |     Yue    |          |          | [example_scene.ma](https://drive.google.com/file/d/1NI-4tK-DEZBqZBiwEXaroyJ-ANqw0vqm/view?usp=share_link) |
 |  12:20-12:30  |                  Wrapup                  |            |          |          |
 
 ## Day 4: Tools for visualization
