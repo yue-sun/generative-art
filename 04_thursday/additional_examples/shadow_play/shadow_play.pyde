@@ -7,12 +7,6 @@ Inspired by Bridget Riley "Shadow Play":
 https://en.wikipedia.org/wiki/Bridget_Riley#/media/File:Riley,_Shadowplay.jpg
 """
 
-# Set up geometry
-nx = 6
-ny = 10
-lx = width/nx
-ly = height/ny
-
 # Color palette of Van Gogh's Starry Night
 # https://www.schemecolor.com/starry-starry-night.php
 colors = [(23, 54, 121), (72, 136, 200), (127, 197, 220), \
@@ -24,6 +18,12 @@ def setup():
     noLoop()
 
 def draw():
+    # Set up geometry
+    nx = 6
+    ny = 10
+    lx = width/nx
+    ly = height/ny
+    
     for i in range(nx):
         for j in range(ny+1):
             # Randomly select color from palette
