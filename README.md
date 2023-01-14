@@ -1,18 +1,15 @@
 # Introduction to Generative Art and Scientific Visualization (January@GSAS 2023)
 
-## Course description
-
 Generative art encapsulates the balance between art and science. Through mathematical equations and physical systems, we can algorithmically generate mesmerizing visual patterns for pure aesthetics or scientific visualization. This five-day mini-course explores representative aspects of generative art and data visualization through in-class code examples. We will begin with traditional generative methods like fractals and chaotic attractors, then focus on pattern formation with the Voronoi diagram and physical systems, and finally survey some modern neural-network-inspired approaches. In addition, we will briefly introduce tools for rendering 3D scientific data in animation software, interactive coding, and 3D printing of your generated art.
 
 >(This mini-course is modeled from—and the sixth iteration of—the [Generative Art Workshop](https://github.com/gvarnavi/generative-art-iap), taught over MIT IAP from 2017 to 2022 by Drs. Emma Vargo, George Varnavides, Amina Matt, Jovana Andrejević and Nina Andrejević. We are grateful to all the previous MIT instructors for some original content to be used in the mini-course.)
 
 ## Course instructors
-Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
->(A short instructors bio is on the [Engage page](https://engage.gsas.harvard.edu/event/8632768).)
+Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević ([Engage page instructors bio](https://engage.gsas.harvard.edu/event/8632768))
 
 ## Syllabus and code examples
 
-- **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
+- _[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)_
 - [Introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)
 - [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
 - [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
@@ -24,7 +21,7 @@ Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
 
 ## Schedule
 
-Contact the course staff at yuesun@g.harvard.edu if you want to watch the Zoom recordings.
+Contact the course staff at `yuesun at g dot harvard dot edu` if you want to watch the Zoom recordings.
 
 ~~Hybrid location: Maxwell Dworkin 221 (in-person) and [via Zoom](https://harvard.zoom.us/j/98070950257?pwd=K2F0cDBUM0IxZkplbFBRWG01N1BEdz09) (virtual)~~
 
