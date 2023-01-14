@@ -1,28 +1,5 @@
 # Introduction to Generative Art and Scientific Visualization (January@GSAS 2023)
 
-## Schedule
-
-Hybrid location: Maxwell Dworkin 221 (in-person) and [via Zoom](https://harvard.zoom.us/j/98070950257?pwd=K2F0cDBUM0IxZkplbFBRWG01N1BEdz09) (virtual)
-
-Class times: 1/9-1/13/2023, 10am-12:30pm
-
-![Course Schedule](figs/schedule_2023.png)
-
-## Syllabus and code examples
-Contact the course staff at yuesun@g.harvard.edu if you want to watch the Zoom recordings.
-
-- **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
-- [Introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)
-- [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
-- [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
-- [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems
-- [Thursday (1/12)](https://github.com/yue-sun/generative-art/tree/main/04_thursday/README.md): Interactive flocking simulation, Python scripting in animation software
-- [Friday (1/13)](https://github.com/yue-sun/generative-art/tree/main/05_friday/README.md): 3D printing, generative art with neural networks
-
-## Course gallery
-
-We encourage you to share with the class your generative art work! You could upload your file to this [shared Google Photo Album](https://photos.app.goo.gl/RxjNkAPqLugHKFzTA). Please tag your work with the corresponding class day, and add a short description to share with the class how you have created your work. You can also like other works in the gallery. Looking forward to your contribution!
-
 ## Course description
 
 Generative art encapsulates the balance between art and science. Through mathematical equations and physical systems, we can algorithmically generate mesmerizing visual patterns for pure aesthetics or scientific visualization. This five-day mini-course explores representative aspects of generative art and data visualization through in-class code examples. We will begin with traditional generative methods like fractals and chaotic attractors, then focus on pattern formation with the Voronoi diagram and physical systems, and finally survey some modern neural-network-inspired approaches. In addition, we will briefly introduce tools for rendering 3D scientific data in animation software, interactive coding, and 3D printing of your generated art.
@@ -32,6 +9,32 @@ Generative art encapsulates the balance between art and science. Through mathema
 ## Course instructors
 Yue Sun, Jiayin Lu, Jovana Andrejević, and Nina Andrejević
 >(A short instructors bio is on the [Engage page](https://engage.gsas.harvard.edu/event/8632768).)
+
+## Syllabus and code examples
+
+- **[Python tutorial (self-paced)](https://github.com/yue-sun/generative-art/tree/main/tutorials)**
+- [Introduction and logistics (slides)](https://github.com/yue-sun/generative-art/blob/main/01_monday/00_intro_logistics.pdf)
+- [Monday (1/9)](https://github.com/yue-sun/generative-art/tree/main/01_monday/README.md): Fractals, strange attractors
+- [Tuesday (1/10)](https://github.com/yue-sun/generative-art/tree/main/02_tuesday/README.md): Voronoi art, space-filling curves
+- [Wednesday (1/11)](https://github.com/yue-sun/generative-art/tree/main/03_wednesday/README.md): Elementary cellular automata, pattern formation in physical systems
+- [Thursday (1/12)](https://github.com/yue-sun/generative-art/tree/main/04_thursday/README.md): Interactive flocking simulation, Python scripting in animation software
+- [Friday (1/13)](https://github.com/yue-sun/generative-art/tree/main/05_friday/README.md): 3D printing, generative art with neural networks
+
+
+
+## Schedule
+
+Contact the course staff at yuesun@g.harvard.edu if you want to watch the Zoom recordings.
+
+~~Hybrid location: Maxwell Dworkin 221 (in-person) and [via Zoom](https://harvard.zoom.us/j/98070950257?pwd=K2F0cDBUM0IxZkplbFBRWG01N1BEdz09) (virtual)~~
+
+~~Class times: 1/9-1/13/2023, 10am-12:30pm~~
+
+![Course Schedule](figs/schedule_2023.png)
+
+## Course gallery
+
+We encourage you to share with the class your generative art work! You could upload your file to this [shared Google Photo Album](https://photos.app.goo.gl/RxjNkAPqLugHKFzTA). Please tag your work with the corresponding class day, and add a short description to share with the class how you have created your work. You can also like other works in the gallery. Looking forward to your contribution!
 
 ## What you will gain from this mini-course?
 
